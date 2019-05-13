@@ -1,5 +1,4 @@
-Desc: This is a sample project.
+# git-demo
+This is a sample repository
 
-This project is authored by : mayank
-This project is authored by : mayank
-
+This project is under development
